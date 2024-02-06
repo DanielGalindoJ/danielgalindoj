@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Cristian Daniel Galindo Jiménez</h1>
-<h3 align="center">Un apasionado desarrollador frontend, backend y de Colombia</h3>
+<h3 align="center">Un apasionado desarrollador frontend, backend  de Colombia</h3>
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=danielgalindoj" alt ="danielgalindoj" /></a> </p>
 
