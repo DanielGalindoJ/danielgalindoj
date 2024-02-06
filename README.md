@@ -13,9 +13,9 @@
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ cristian daniel galindo jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /linked-in-alt.svg" alt="cristian daniel galindo jimenez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ cristian daniel galindo jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /linked-in-alt.svg" alt="cristian daniel galindo jimenez" height="10" width="10" /></a>
 <a href="https://stackoverflow.com/users/cristian daniel galindo jimene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack -overflow.svg" alt="cristian daniel galindo jimene" height="30" width="40" /></a>
-<a href="https://fb.com/daniel galindo" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel galindo " altura="30" ancho="40" /></a>
+<a href="https://fb.com/daniel galindo" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel galindo " altura="10" ancho="10" /></a>
 <a href="https://instagram.com/daniel.galindo14_" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel.galindo14_" height="30" width="40 " /></a>
 </p>
 
