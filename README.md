@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Cristian Daniel Galindo Jiménez</h1>
-<h3 align="center">Un apasionado desarrollador de frontend, backend y bases de datos de Colombia</h3>
+<h3 align="center">Un apasionado desarrollador de frontend, backend de Colombia</h3>
 
 <p align="left "> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=danielgalindoj" alt="danielgalindoj" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Proyecto Móvil Jucar-Autopartes](https://github.com/DanielGalindoJ/jucar.git)
 
-- 🌱 Estoy actualmente aprendiendo **Ing.Sistemas,Control de Versiones, Excel avanzado**
+- 🌱 Estoy actualmente aprendiendo **Analisis y Desarrollo de Software**
 
 - 👯 Busco colaborar en [Autopartes Jucar](https://github.com/shelovespalace22/Autopartes-Jucar.git)
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ cristian daniel galindo jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /linked-in-alt.svg" alt="cristian daniel galindo jimenez" height="10" width="10" /></a>
+<a href="https://linkedin.com/in/ cristian daniel galindo jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /linked-in-alt.svg" alt="cristian daniel galindo jimenez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/cristian daniel galindo jimene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack -overflow.svg" alt="cristian daniel galindo jimene" height="30" width="40" /></a>
-<a href="https://fb.com/daniel galindo" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel galindo " altura="10" ancho="10" /></a>
+<a href="https://fb.com/daniel galindo" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel galindo " altura="30" ancho="40" /></a>
 <a href="https://instagram.com/daniel.galindo14_" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel.galindo14_" height="30" width="40 " /></a>
 </p>
 
