@@ -1,60 +1,93 @@
-<h1 align="center">Hola, soy Cristian Daniel Galindo Jiménez</h1>
-<h3 align="center">Desarrollador Backend</h3>
+<!-- 🌌 Futuristic GitHub Profile -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=700&lines=🚀+Hola,+soy+Cristian+Daniel+Galindo+Jiménez;💻+Desarrollador+Backend+en+Go+y+C%23;⚡+Apasionado+por+la+Arquitectura+Limpia+y+el+Código+Escalable" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
 ---
 
-### 🚀 Sobre mí
-- 🔭 Actualmente trabajo en **[Sistemas Enlínea S.A.](https://www.sistemasonlinea.com/)** como **Desarrollador de Back-End**.
-- 🌱 Aprendiendo **Ingeniería de Sistemas** en el **Universidad Ecci**.
-- 👯 Colaborando en **[Proyecto Móvil Jucar-Autopartes](https://github.com/DanielGalindoJ/jucar.git)** y **[Autopartes Jucar](https://github.com/shelovespalace22/Autopartes-Jucar.git)**.
-- 💡 Apasionado por el desarrollo de soluciones eficientes y escalables utilizando **Golang** y **C#**.
-- 📫 Contacto: **galijine@gmail.com**
-  
----
-
-### 🏆 Certificaciones
-- **Control de Versiones Git** - **izyAcademy**
-- **Ciberseguridad** - **Coursera**
-- **Competencia Nacional Senasoft - Ingenieria de Datos** - **SENA**
+### 🌌 Sobre mí
+> 💡 Apasionado por crear soluciones backend **eficientes, escalables y seguras.**  
+> 🚀 Experiencia en **Go, .NET 8, PostgreSQL, Arquitectura Limpia** y **Microservicios.**  
+> 💼 Actualmente en **[Sistemas Enlínea S.A.](https://www.sistemasonlinea.com/)**  
+> 🎓 Estudiante de **Ingeniería de Sistemas – Universidad ECCI**  
+> 📫 **galijine@gmail.com**
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,postgres,git,github,react,js,linux,vscode,docker&theme=dark" />
 </p>
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 🧠 Certificaciones
+- 🌀 **Control de Versiones Git** — *izyAcademy*  
+- 🔐 **Ciberseguridad** — *Coursera*  
+- 🧩 **Competencia Nacional Senasoft - Ingeniería de Datos** — *SENA*
+
+---
+
+### 📊 Actividad y Estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielGalindoJ&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielGalindoJ&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielGalindoJ&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielGalindoJ&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielGalindoJ&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGalindoJ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🛰️ Últimos Commits
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🧩 Pull Requests y Repositorios
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=DanielGalindoJ&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 ### 🌐 Idiomas
-- Español (Nativo)
-- Inglés (Intermedio)
+- 🇪🇸 Español — Nativo  
+- 🇬🇧 Inglés — Intermedio  
 
 ---
 
-### 📫 Conéctate conmigo
-<p align="left">
+### 🔗 Conéctate conmigo
+<p align="center">
   <a href="https://www.linkedin.com/in/cristian-daniel-galindo-jimenez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:galijine@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielGalindoJ&label=Visitas+al+perfil&color=00E5FF&style=for-the-badge" />
+</p>
+
+---
+
+✨ *"El código perfecto no existe, pero el aprendizaje continuo te acerca cada día más."*
