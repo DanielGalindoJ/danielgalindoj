@@ -2,7 +2,7 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # se ejecuta cada 30 minutos
+    - cron: "*/10 * * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: JamesIves/github-activity-readme@v0.3.0
+
+      - name: Update Activity (Readme-Workflows)
+        uses: Readme-Workflows/recent-activity@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+          MAX_LINES: 6
           COMMIT_MSG: "🔄 Actualizando últimos commits automáticamente"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
