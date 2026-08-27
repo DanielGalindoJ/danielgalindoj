@@ -91,7 +91,7 @@ func main() {
 
 </div>
 
-> ⚠️ Esta animación se genera con un GitHub Action (ver instrucciones abajo). Hasta que lo actives, esta imagen aparecerá rota.
+
 
 <br/>
 
