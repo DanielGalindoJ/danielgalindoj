@@ -1,114 +1,123 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Cristian+Daniel+Galindo+Jim%C3%A9nez;Backend+Engineer+%E2%80%94+Go+%26+.NET;Clean+Architecture+%7C+Microservices" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=200&section=header&text=Cristian%20Daniel%20Galindo&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%94%20Go%20%26%20.NET&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Clean+Architecture+%7C+DDD;Microservices+%26+Event-Driven+Systems;Go+%2B+.NET+8+%2B+PostgreSQL" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-daniel-galindo-jimenez/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:galijine@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=DanielGalindoJ&style=flat-square&color=00E5FF&label=Profile+Views)](https://github.com/DanielGalindoJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-daniel-galindo-jimenez/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galijine@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=DanielGalindoJ&style=for-the-badge&color=00E5FF&label=Profile+Views)](https://github.com/DanielGalindoJ)
 
 </div>
-
----
-
-## About Me
-
-Backend engineer focused on building **efficient, scalable, and secure systems**. I work primarily with **Go** and **.NET 8**, applying Clean Architecture principles and microservices patterns to design software that's built to last.
-
-- 🏢 Currently at **[Sistemas Enlínea S.A.](https://www.sistemasonlinea.com/)**
-- 🎓 Systems Engineering student at **Universidad ECCI**
-- 🌎 Based in **Colombia** — Open to remote opportunities
-- 📬 Reach me at **galijine@gmail.com**
-
----
-
-## Tech Stack
-
-### Languages & Frameworks
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Architecture & Methodologies:** Clean Architecture · Domain-Driven Design · Microservices · RESTful APIs
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DanielGalindoJ&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DanielGalindoJ&theme=github-dark-blue&hide_border=true" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGalindoJ&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="140"/>
+## 👨‍💻 Sobre mí
 
-</div>
+```go
+package main
 
----
+type Developer struct {
+    Name      string
+    Role      string
+    Company   string
+    Education string
+    Stack     []string
+    Focus     []string
+}
 
-## Activity
+func main() {
+    daniel := Developer{
+        Name:      "Cristian Daniel Galindo Jiménez",
+        Role:      "Backend Engineer",
+        Company:   "Sistemas Enlínea S.A.",
+        Education: "Systems Engineering @ Universidad ECCI",
+        Stack:     []string{"Go", "C#", "Python",".NET 8", "PostgreSQL", "Docker"},
+        Focus:     []string{"Clean Architecture", "DDD", "Microservices"},
+    }
+    daniel.BuildScalableSystems()
+}
+```
+
+- 🏢 Actualmente en **[Sistemas Enlínea S.A.](https://www.sistemasonlinea.com/)**
+- 🎓 Estudiante de Ingeniería de Sistemas en **Universidad ECCI**
+- 🌎 Colombia — Abierto a oportunidades remotas
+- 📬 **galijine@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielGalindoJ&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://skillicons.dev/icons?i=go,cs,dotnet,js,react,postgres,docker,linux,git,github,vscode&perline=6" />
 
 </div>
 
-### Historial por año
+**Arquitectura & Metodologías:** `Clean Architecture` · `Domain-Driven Design` · `Microservices` · `Event-Driven` · `RESTful APIs`
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGalindoJ&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DanielGalindoJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DanielGalindoJ&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielGalindoJ&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielGalindoJ&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGalindoJ&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielGalindoJ&theme=github_dark&utcOffset=-5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGalindoJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 </div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<br/>
 
----
+## 📈 Actividad de contribuciones
 
-## Certifications
+<div align="center">
 
-| Certificate | Issuer |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielGalindoJ&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Snake — evolución de mis contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DanielGalindoJ/DanielGalindoJ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+> ⚠️ Esta animación se genera con un GitHub Action (ver instrucciones abajo). Hasta que lo actives, esta imagen aparecerá rota.
+
+<br/>
+
+## 🏆 Certificaciones
+
+| Certificado | Emisor |
 |---|---|
 | Git Version Control | izyAcademy |
 | Cybersecurity | Coursera |
-| Senasoft National Competition — Data Engineering | SENA |
+| Senasoft Nacional — Ingeniería de Datos | SENA |
 
----
+<br/>
 
-## Languages
+## 🌐 Idiomas
 
-| Language | Level |
+| Idioma | Nivel |
 |---|---|
-| 🇪🇸 Spanish | Native |
-| 🇬🇧 English | Intermediate |
+| 🇪🇸 Español | Nativo |
+| 🇬🇧 Inglés | Intermedio |
 
----
+<br/>
 
 <div align="center">
 
 *"Clean code is not written by following rules. It is written by a programmer who cares."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
